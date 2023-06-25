@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1608415447 source:c:\users\hridi\documents\c codes\catch the egg\catch_the_eggs.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1602925008 c:\users\hridi\documents\c codes\catch the egg\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1602925008 c:\users\hridi\documents\c codes\catch the egg\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1602925008 c:\users\hridi\documents\c codes\catch the egg\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1602925008 c:\users\hridi\documents\c codes\catch the egg\opengl\include\gl.h
+
